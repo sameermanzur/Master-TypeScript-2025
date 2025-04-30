@@ -12,12 +12,12 @@ Edit
 
 ## 🧠 Topics Covered
 
-- ✅ Type Annotations (`string`, `number`, `boolean`, `any`, etc.)
-- ✅ Interfaces and Types
+- ✅ Arrays, Variables, Operators 
+- ✅ Data Types, Objects 
 - ✅ Functions with typed parameters and return types
-- ✅ Classes and Inheritance
-- ✅ TypeScript Modules & Imports
-- ✅ Compiling TypeScript to JavaScript
+- ✅ loop, Tuple
+- ✅ Switch statements and Conditional statemnents 
+- ✅ Scope
 
 ## ⚙️ Getting Started
 
