@@ -3,18 +3,15 @@
 A simple project demonstrating the fundamentals of TypeScript for beginners. 
 
 ## 🧠 Topics Covered
-<<<<<<< HEAD
-
 - ✅ Arrays, Variables, Operators 
 - ✅ Data Types, Objects 
-=======
 - ✅ Type Annotations (`string`, `number`, `boolean`, `any`, etc.)
 - ✅ Interfaces and Types
->>>>>>> 9c999bab55878549e47b6bcc0fd7e9bceb0f17d2
 - ✅ Functions with typed parameters and return types
 - ✅ loop, Tuple
 - ✅ Switch statements and Conditional statemnents 
 - ✅ Scope
+included explanation for learning purposes
 
 ## ⚙️ Getting Started
 
