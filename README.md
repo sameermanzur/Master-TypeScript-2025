@@ -51,13 +51,6 @@ node dist/index.js
 🛠 Scripts
 npx tsc – Compile the TypeScript files
 
-npm run start – Start the app (after compilation, if you’ve added a script)
-
-📘 Resources
-TypeScript Docs
-
-TypeScript Playground
-
 ✍️ Author
 Name: Sameer Manzur 
 
