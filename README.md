@@ -11,7 +11,7 @@ A simple project demonstrating the fundamentals of TypeScript for beginners.
 - ✅ loop, Tuple
 - ✅ Switch statements and Conditional statemnents 
 - ✅ Scope
-included explanation for learning purposes
+## included explanation for learning purposes
 
 ## ⚙️ Getting Started
 
