@@ -1,17 +1,8 @@
 # TypeScript Basics
 
-A simple project demonstrating the fundamentals of TypeScript for beginners. This includes type annotations, interfaces, functions, classes, and modules.
-
-## 📁 Project Structure
-
-typescript-basics/ ├── src/ │ ├── index.ts │ ├── types.ts │ ├── interfaces.ts │ ├── functions.ts │ └── classes.ts ├── dist/ ├── tsconfig.json ├── package.json └── README.md
-
-markdown
-Copy
-Edit
+A simple project demonstrating the fundamentals of TypeScript for beginners. 
 
 ## 🧠 Topics Covered
-
 - ✅ Type Annotations (`string`, `number`, `boolean`, `any`, etc.)
 - ✅ Interfaces and Types
 - ✅ Functions with typed parameters and return types
