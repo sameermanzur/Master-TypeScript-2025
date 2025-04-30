@@ -1,19 +1,16 @@
 # TypeScript Basics
 
-A simple project demonstrating the fundamentals of TypeScript for beginners. This includes type annotations, interfaces, functions, classes, and modules.
-
-## 📁 Project Structure
-
-typescript-basics/ ├── src/ │ ├── index.ts │ ├── types.ts │ ├── interfaces.ts │ ├── functions.ts │ └── classes.ts ├── dist/ ├── tsconfig.json ├── package.json └── README.md
-
-markdown
-Copy
-Edit
+A simple project demonstrating the fundamentals of TypeScript for beginners. 
 
 ## 🧠 Topics Covered
+<<<<<<< HEAD
 
 - ✅ Arrays, Variables, Operators 
 - ✅ Data Types, Objects 
+=======
+- ✅ Type Annotations (`string`, `number`, `boolean`, `any`, etc.)
+- ✅ Interfaces and Types
+>>>>>>> 9c999bab55878549e47b6bcc0fd7e9bceb0f17d2
 - ✅ Functions with typed parameters and return types
 - ✅ loop, Tuple
 - ✅ Switch statements and Conditional statemnents 
@@ -50,13 +47,6 @@ Edit
 node dist/index.js
 🛠 Scripts
 npx tsc – Compile the TypeScript files
-
-npm run start – Start the app (after compilation, if you’ve added a script)
-
-📘 Resources
-TypeScript Docs
-
-TypeScript Playground
 
 ✍️ Author
 Name: Sameer Manzur 
